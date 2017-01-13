@@ -19,3 +19,6 @@ Keep Talking and Nobody Explodes
 Binding of Isaac (most rooms cleared in 10 minutes)
 Space Team
 N++
+Super Hexagon
+Geometry Wars: Retro Evolved
+Audioshield (VR)
