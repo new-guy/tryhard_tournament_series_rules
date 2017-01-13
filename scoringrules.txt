@@ -1,0 +1,21 @@
+Two games will be played, and scores will be derived from overall placement in those games.  Your scores in both games will be combined to generate your score for the night.  Your top 6 scores over the 8 weeks will be totalled together to get your total score for the season.
+
+Main game:
+1st - 20
+2nd - 16
+3rd - 12
+4th - 10
+5th - 8
+6th - 6
+7th - 4
+8th - 2
+
+Side game:
+1st - 10
+2nd - 8
+3rd - 6
+4th - 5
+5th - 4
+6th - 3
+7th - 2
+8th - 1

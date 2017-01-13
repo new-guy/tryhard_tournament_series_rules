@@ -1,0 +1,1 @@
+This repo contains information about how the tryhard tournament series league will be run.
