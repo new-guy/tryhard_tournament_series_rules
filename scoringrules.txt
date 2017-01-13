@@ -1,5 +1,7 @@
 Two games will be played, and scores will be derived from overall placement in those games.  Your scores in both games will be combined to generate your score for the night.  Your top 6 scores over the 8 weeks will be totalled together to get your total score for the season.
 
+Your placement in the main game (towerfall) is based upon your win/loss ratio.  First place in a match is worth 4 points, second place is 3, 3rd is 2, 4th is 1
+
 Main game:
 1st - 20
 2nd - 16

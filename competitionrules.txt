@@ -1,0 +1,16 @@
+The primary game is Towerfall, and it will be a free-for-all, 4 player format.  Players must show up before the starting time of the tournament to register.  If you don't show up before the tournament starts, you may not participate.
+
+- Top two players and bottom two players at the end of a match get split into different groups (upper and lower groups) each round.  Ties are resolved in a sudden death round.
+- Map is chosen at random
+- We'll play through 4 rounds of this and the matchups will be randomly generated from those groups
+- If the number of competitors isn't evenly divisible by 4, the final spots will be filled in at random (from a pool of players that have not yet filled in an empty spot).  The players that fill in the empty spots do not get wins or points for those games.  We will attempt to ensure that players don't play for points in a man-down game more than once per night.  The games will be broken up as follows:
+	- Remainder of 1: a 2 man and 3 man game will be played
+	- Remainder of 2: two 3 man games will be played
+	- Remainder of 3: one 3 man game will be played
+- Your ranking at the end of the night is based upon your success over the course of the different matches that you play in.  Points are awarded in the following way:
+	- 1st: 4
+	- 2nd: 3
+	- 3rd: 2
+	- 4th: 1
+
+The secondary game will change from week to week.  These games will usually try to follow a format that will allow you to play it at your convenience.  These games will often be centered around time trials/high scores.
