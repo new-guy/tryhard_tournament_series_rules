@@ -1,16 +1,8 @@
 Two games will be played, and scores will be derived from overall placement in those games.  Your scores in both games will be combined to generate your score for the night.  Your top 6 scores over the 8 weeks will be totalled together to get your total score for the season.
 
-Your placement in the main game (towerfall) is based upon your win/loss ratio.  First place in a match is worth 4 points, second place is 3, 3rd is 2, 4th is 1
+For Towerfall, you get 4 points per match won, 3 for 2nd, 2 for 3rd, 1 for 4th.  Each session will involve 4 rounds of playing, with a maximum of 16 points over the course of the night from the main game.
 
-Main game:
-1st - 20
-2nd - 16
-3rd - 12
-4th - 10
-5th - 8
-6th - 6
-7th - 4
-8th - 2
+For the side game, the number of points you get is based upon how well you do compared to everyone else.  In a team game, each team member receives the same number of points.
 
 Side game:
 1st - 10
